@@ -6,6 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./user-list.component.css']
 })
 export class UserListComponent {
+  show = true;
   number = 0;
   counter(type:string){
     type=='add' ? this.number++ :this.number-- ;

@@ -1,5 +1,6 @@
 {
   "name": "first-app",
+  "homepage": "https://amarkhan05.github.io/angular",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
